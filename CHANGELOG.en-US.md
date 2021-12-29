@@ -1048,7 +1048,7 @@
 - Fix `n-input-number`'s button doesn't work after value is cleared, closes [#251](https://github.com/TuSimple/naive-ui/issues/251).
 - Fix `n-data-table` expand trigger's cursor is not pointer, closes [#261](https://github.com/TuSimple/naive-ui/issues/261).
 
-## Refactors
+### Refactors
 
 - `n-input-number` will focus directly, closes [#244](https://github.com/TuSimple/naive-ui/issues/244).
 

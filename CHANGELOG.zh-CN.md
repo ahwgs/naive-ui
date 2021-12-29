@@ -1046,7 +1046,7 @@
 - 修复 `n-input-number` 的按钮在值清空后无法使用，关闭 [#251](https://github.com/TuSimple/naive-ui/issues/251)
 - 修复 `n-data-table` 展开图标光标样式不是 pointer，关闭 [#261](https://github.com/TuSimple/naive-ui/issues/261)
 
-## Refactors
+### Refactors
 
 - `n-input-number` 会直接聚焦，关闭 [#244](https://github.com/TuSimple/naive-ui/issues/244)
 
